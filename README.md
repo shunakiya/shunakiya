@@ -8,12 +8,8 @@ I am a 21-year-old Senior at CSUSB majoring in Computer Engineering. As I pursue
 
 **Frameworks and Libraries**
 <br/>
-<img title="React" alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png"> <img title="Flask" alt="Flask" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/flask/flask.png"> <img title="Svelte" alt="Svelte" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/svelte/svelte.png"> <img title="Tailwind" alt="Tailwind" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/tailwind/tailwind.png"> <img title="Next.JS" alt="Next.JS" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/nextjs/nextjs.png"> <p>(In progress)</p>
+<img title="React" alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png"> <img title="Flask" alt="Flask" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/flask/flask.png"> <img title="Svelte" alt="Svelte" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/svelte/svelte.png"> <img title="Tailwind" alt="Tailwind" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/tailwind/tailwind.png"> <img title="Next.JS" alt="Next.JS" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/nextjs/nextjs.png">
 
 **Databases**
+<br/>
 <img title="MySQL" alt="MySQL" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png">
-
-- Senior at CSUSB majoring in Computer Engineering.
-- Strong passion for Full-Stack Development. 
-- Experience with: React, TypeScript, Svelte, MySQL, Java, Tailwind
-- Other: Python, C, C++
