@@ -8,7 +8,7 @@ I am a 21-year-old Senior at CSUSB majoring in Computer Engineering. As I pursue
 
 **Frameworks and Libraries**
 <br/>
-<img title="React" alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png"> <img title="Flask" alt="Flask" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/flask/flask.png"> <img title="Svelte" alt="Svelte" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/svelte/svelte.png"> <img title="Tailwind" alt="Tailwind" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/tailwind/tailwind.png"> <img title="Next.JS" alt="Next.JS" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/nextjs/nextjs.png">
+<img title="React" alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png"> <img title="Svelte" alt="Svelte" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/svelte/svelte.png"> <img title="Flask" alt="Flask" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/flask/flask.png"> <img title="Tailwind" alt="Tailwind" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/tailwind/tailwind.png"> <img title="Next.JS" alt="Next.JS" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/nextjs/nextjs.png">
 
 **Databases**
 <br/>
