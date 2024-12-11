@@ -1,6 +1,7 @@
 <h1>Hello, I'm Shunsuke Akiya!</h1>
 
 I am a 21-year-old Senior at CSUSB majoring in Computer Engineering. As I pursue a career as a Full-Stack Developer, I am passionate about learning and building high-quality applications.
+Also, feel free to checkout my portfolio at [shunakiya.dev!](https://shunakiya.dev/)
 
 **Programming Languages**
 <br/>
