@@ -2,6 +2,10 @@
 
 I’m a 21-year-old Full-Stack Developer and student who enjoys learning and building high-quality applications. I started programming young in robotics, but my Software Developer internship sparked my path into Full-Stack Development. Since then, I’ve committed to expanding my skills, from TypeScript and full-stack knowledge to algorithms and data structures.
 <br/>
+<br/>
+I enjoy working in both design and engineering, aiming for a balance between performance and functionality. Whether building a dynamic frontend interface or coding efficient backend logic, I continue to grow my toolkit and am ready to face new challenges.
+<br/>
+<br/>
 Also, feel free to checkout my <a href="https://shunakiya.dev/" target="_blank">Portfolio!</a>
 
 **Programming Languages**
