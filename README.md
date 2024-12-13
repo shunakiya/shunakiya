@@ -8,6 +8,8 @@ I enjoy working in both design and engineering, aiming for a balance between per
 <br/>
 Also, feel free to checkout my <a href="https://shunakiya.dev/" target="_blank">Portfolio!</a> (Link also in profile description)
 
+<h2>Skills</h2>
+
 **Programming Languages**
 <br/>
 <img alt="JS" title="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png"> <img alt="Typescript" title="Typescript" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png"> <img title="Python" alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" /> <img title="Java" alt="Java" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png" />
