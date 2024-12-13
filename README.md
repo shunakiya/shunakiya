@@ -6,7 +6,7 @@ I’m a 21-year-old Full-Stack Developer and student who enjoys learning and bui
 I enjoy working in both design and engineering, aiming for a balance between performance and functionality. Whether building a dynamic frontend interface or coding efficient backend logic, I continue to grow my toolkit and am ready to face new challenges.
 <br/>
 <br/>
-Also, feel free to checkout my <a href="https://shunakiya.dev/" target="_blank">Portfolio!</a>
+Also, feel free to checkout my <a href="https://shunakiya.dev/" target="_blank">Portfolio!</a> (Link also in profile description)
 
 **Programming Languages**
 <br/>
