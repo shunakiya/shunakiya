@@ -1,6 +1,6 @@
 <h1>Hello, I'm Shunsuke Akiya!</h1>
 
-I am a 21-year-old Senior at CSUSB majoring in Computer Engineering. As I pursue a career as a Full-Stack Developer, I am passionate about learning and building high-quality applications. <br/>
+I’m a 21-year-old Full-Stack Developer and student who enjoys learning and building high-quality applications. I started programming young in robotics, but my Software Developer internship sparked my path into Full-Stack Development. Since then, I’ve committed to expanding my skills, from TypeScript and full-stack knowledge to algorithms and data structures.
 <br/>
 Also, feel free to checkout my <a href="https://shunakiya.dev/" target="_blank">Portfolio!</a>
 
