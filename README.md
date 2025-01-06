@@ -18,6 +18,6 @@ Also, feel free to checkout my <a href="https://shunakiya.dev/" target="_blank">
 <br/>
 <img title="React" alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png"> <img title="Svelte" alt="Svelte" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/svelte/svelte.png"> <img title="Flask" alt="Flask" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/flask/flask.png"> <img title="Tailwind" alt="Tailwind" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/tailwind/tailwind.png"> <img title="Next.JS" alt="Next.JS" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/nextjs/nextjs.png">
 
-**Databases**
+**Databases and Platforms**
 <br/>
-<img title="MySQL" alt="MySQL" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png">
+<img title="MySQL" alt="MySQL" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png"> <img title="Vercel" alt="Vercel" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/vercel/vercel.png">
