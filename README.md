@@ -1,4 +1,5 @@
 <h1>Hello, I'm Shunsuke Akiya!</h1>
+<h3>I go by Shun.</h3>
 
 I build responsive and user-friendly web applications using modern frameworks and best practices. My academic background in Computer Engineering provides a strong foundation in both software and hardware principles, enabling me to approach full-stack development with a comprehensive perspective.
 <br/>
