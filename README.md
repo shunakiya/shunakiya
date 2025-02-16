@@ -13,7 +13,7 @@ Also, feel free to checkout my <a href="https://shunakiya.dev/" target="_blank">
 
 **Frameworks and Libraries**
 <br/>
-<img title="React" alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png"> <img title="Tailwind" alt="Tailwind" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/tailwind/tailwind.png"> <img title="Svelte" alt="Svelte" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/svelte/svelte.png"> <img title="Flask" alt="Flask" width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmD38KsMgEwahtWc_Nfs5ZVktP9dBc36MUZA&s"> 
+<img title="React" alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png"> <img title="Tailwind" alt="Tailwind" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/tailwind/tailwind.png"> <img title="Flask" alt="Flask" width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmD38KsMgEwahtWc_Nfs5ZVktP9dBc36MUZA&s"> <img title="Next.js" alt="Next.js" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/nextjs/nextjs.png"> (In Progress) 
 
 **Databases and Platforms**
 <br/>
