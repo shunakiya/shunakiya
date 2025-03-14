@@ -9,7 +9,7 @@ Also, feel free to checkout my <a href="https://shunakiya.dev/" target="_blank">
 
 **Programming Languages**
 <br/>
-<img alt="JS" title="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png"> <img alt="Typescript" title="Typescript" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png"> <img title="Python" alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" /> <img title="Java" alt="Java" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png" />
+<img alt="JS" title="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png"> <img alt="Typescript" title="Typescript" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png"> <img title="Python" alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />
 
 **Frameworks and Libraries**
 <br/>
