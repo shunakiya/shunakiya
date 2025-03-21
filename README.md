@@ -1,6 +1,6 @@
 <h1>Hi, I'm Shunsuke/Shun!</h1>
 
-I build responsive and user-friendly web applications using modern frameworks and best practices. My academic background in Computer Engineering provides a strong foundation in both software and hardware principles, enabling me to approach programming with a comprehensive perspective.
+I’m a 22-year-old Full-Stack Developer and student that builds responsive and user-friendly web applications using modern frameworks and best practices. 
 <br/>
 <br/>
 Also, feel free to checkout my <a href="https://shunakiya.dev/" target="_blank">Portfolio!</a> (Link also in profile description)
