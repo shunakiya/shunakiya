@@ -2,7 +2,7 @@
 
 I'm a 22-year-old Full-Stack Developer and student (you can call me Shun) that builds responsive and user-friendly web applications using modern frameworks and best practices.
 
-My current focus is on Front-End Development, where I deisgn clean and minimalist designs with subtle animations to keep things smooth and engaging.
+My current focus is on Front-End Development, where I create minimalist designs complemented by subtle animations to keep interactions intuitive and engaging.
 <br/>
 <br/>
 Feel free to checkout my <a href="https://shunakiya.dev/" target="_blank">Portfolio!</a> (Link also in profile description)
