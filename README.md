@@ -1,9 +1,9 @@
-<h1>Hi, I'm Shunsuke/Shun!</h1>
+<h1>Hi, I'm Shunsuke!</h1>
 
-I’m a 22-year-old Full-Stack Developer and student that builds responsive and user-friendly web applications using modern frameworks and best practices. 
+I'm a 22-year-old Full-Stack Developer and student (you can call me Shun) that builds responsive and user-friendly web applications using modern frameworks and best practices.
 <br/>
 <br/>
-Also, feel free to checkout my <a href="https://shunakiya.dev/" target="_blank">Portfolio!</a> (Link also in profile description)
+Feel free to checkout my <a href="https://shunakiya.dev/" target="_blank">Portfolio!</a> (Link also in profile description)
 
 <h2>Skills</h2>
 
