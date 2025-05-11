@@ -16,5 +16,5 @@ Feel free to checkout my <a href="https://shunakiya.dev/" target="_blank">Portfo
 
 **Databases and Platforms**
 <br/>
-<img title="MySQL" alt="MySQL" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png"> <img title="Git" alt="MongoDB" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png"> <img title="Figma" alt="Figma" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/figma/figma.png"> <img title="Git" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png"> <img title="Vercel" alt="Vercel" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/vercel/vercel.png">
+<img title="Git" alt="MongoDB" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png"> <img title="Figma" alt="Figma" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/figma/figma.png"> <img title="Git" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png"> <img title="Vercel" alt="Vercel" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/vercel/vercel.png">
 
