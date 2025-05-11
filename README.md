@@ -1,8 +1,7 @@
 <h1>Hi, I'm Shunsuke!</h1>
 
-A Full-Stack Developer and student that builds responsive and user-friendly web applications using modern frameworks and best practices.
+I'm a new grad that builds responsive and user-friendly web applications using modern frameworks and best practices.
 
-My current focus is on Front-End Development, where I create minimalist design with subtle animations to keep interactions intuitive and engaging.
 <br/>
 <br/>
 Feel free to checkout my <a href="https://shunakiya.dev/" target="_blank">Portfolio!</a> (Link also in profile description)
