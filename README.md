@@ -2,7 +2,6 @@
 
 I'm a new grad that builds responsive and user-friendly web applications using modern frameworks and best practices.
 
-<br/>
 Feel free to checkout my <a href="https://shunakiya.dev/" target="_blank">Portfolio!</a> (Link also in profile description)
 
 <h2>Skills</h2>
