@@ -3,7 +3,6 @@
 I'm a new grad that builds responsive and user-friendly web applications using modern frameworks and best practices.
 
 <h2>Skills</h2>
-
 **Programming Languages**
 <br/>
 <img alt="Typescript" title="Typescript" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png"> <img alt="JS" title="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png"> <img title="Python" alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />
