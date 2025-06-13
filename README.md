@@ -1,6 +1,6 @@
 <h1>Hi, I'm Shunsuke!</h1>
 
-New grad experience in building responsive, scalable web applications with React, Next.js, and TypeScript. Passionate about clean code, seamless API integration, and creating user-focused products while thriving in collaborative, inclusive teams.
+New grad experience in building responsive, scalable web applications with React, Next.js, and TypeScript. Passionate about clean code, seamless API integration, and creating user-focused products.
 
 <h2>Skills</h2>
 
