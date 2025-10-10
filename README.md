@@ -1,6 +1,6 @@
 <h1>Hi, I'm Shunsuke!</h1>
 
-New grad experienced in building responsive, scalable web applications with Next.js, React, TypeScript, and Tailwind. Passionate about clean code, seamless API integration, and creating user-focused apps.
+Web developer building user-friendly applications with Next.js, TypeScript, and Tailwind. I enjoy solving real-world problems and building tools that help people. Passionate about creating smooth animations, scalable solutions, and keeping up with the latest web technologies.
 
 <h2>Skills</h2>
 
