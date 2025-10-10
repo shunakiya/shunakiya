@@ -11,6 +11,7 @@ Web developer building user-friendly applications with Next.js, TypeScript, and 
 **Frameworks and Libraries**
 <br/>
 <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind" />
+<img alt="Framer Motion" width="48px" src="./assets/framer-motion.svg" />
 
 **Tools and Platforms**
 <br/>
