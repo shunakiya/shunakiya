@@ -6,12 +6,12 @@ I'm a web developer that builds user-friendly apps with Next.js, TypeScript, and
 
 **Programming Languages**
 <br/>
-<img src="https://skillicons.dev/icons?i=ts" />&nbsp;<img src="https://skillicons.dev/icons?i=js" />&nbsp;<img src="https://skillicons.dev/icons?i=py" />
+<img src="https://skillicons.dev/icons?i=ts" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=js" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=py" />
 
 **Frameworks and Libraries**
 <br/>
-<img src="https://skillicons.dev/icons?i=nextjs" />&nbsp;<img src="https://skillicons.dev/icons?i=react" />&nbsp;<img src="https://skillicons.dev/icons?i=tailwind" />&nbsp;<img alt="Framer Motion" width="48px" src="./assets/framer-motion.svg" />
+<img src="https://skillicons.dev/icons?i=nextjs" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=react" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=tailwind" />&nbsp;&nbsp;<img alt="Framer Motion" width="48px" src="./assets/framer-motion.svg" />
 
 **Tools and Platforms**
 <br/>
-<img src="https://skillicons.dev/icons?i=figma" />&nbsp;<img src="https://skillicons.dev/icons?i=git" />&nbsp;<img src="https://skillicons.dev/icons?i=vercel" />
+<img src="https://skillicons.dev/icons?i=figma" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=git" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=vercel" />
