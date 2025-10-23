@@ -1,6 +1,6 @@
 <h1>Hi, I'm Shunsuke!</h1>
 
-I'm a web developer that builds user-friendly apps with Next.js, TypeScript, and Tailwind. I like creating tools that solve real problems for people, with attention to smooth animations, scalable solutions, and keeping up with the latest web technologies.
+I'm a web developer that builds user-friendly apps with Next.js, TypeScript, and Tailwind. I like creating tools that solve real problems for people, with attention to smooth animations and scalable solutions.
 
 <h2>Skills</h2>
 
