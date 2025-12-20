@@ -2,7 +2,7 @@
 
 I'm a web developer that builds user-friendly apps with Next.js, TypeScript, and Tailwind. I like creating tools that solve real problems for people, with attention to smooth animations and scalable solutions.
 
-<h2>Skills</h2>
+<h2>Top Skills</h2>
 
 **Programming Languages**
 <br/>
