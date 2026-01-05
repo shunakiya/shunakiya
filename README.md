@@ -14,4 +14,4 @@ I'm a web developer that builds user-friendly apps with Next.js, TypeScript, and
 
 **Tools and Platforms**
 <br/>
-<img src="https://skillicons.dev/icons?i=figma" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=git" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=vercel" />
+<img src="https://skillicons.dev/icons?i=figma" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=git" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=vercel" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=vite" />
